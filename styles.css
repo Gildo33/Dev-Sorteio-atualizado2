@@ -85,3 +85,43 @@ button {
 
 
 }
+@media screen and (max-width: 900px) {
+
+
+    body {
+        background: rgb(38, 36, 44) ;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        
+        
+    }
+    img {
+    
+        width: 200px;
+        height: 200px;
+        
+    }
+
+    input {
+        width: 150px;
+        height: 72px;
+        border-radius: 5px;
+        padding: 13px 233px 30px 16px;
+        margin-top: 20px;
+        background: #d1d3c1;
+        margin-left: 60px;
+        
+        
+    }
+
+    button {
+        width: 150px;
+        height: 72px;
+        font-size: 20px;
+
+    }
+    
+    
+}
