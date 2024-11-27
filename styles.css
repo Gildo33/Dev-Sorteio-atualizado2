@@ -125,34 +125,29 @@ button {
     input {
         width: 200px;
         height: 74px;
-        padding: 13px 233px 30px 16px;
-        gap: 15px;
-        border-radius: 15px;
+        gap: 10px;
+        border-radius: 10px;
         margin-top: 29px;
         background: #d1d3c1;
-        margin-left: 50px;
-        
-        
-        
-    }
+       
+}
+
+div {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+}
+    
 
 
     button {
         width: 200px;
-        height: 72px;
-        border-radius: 10px;
-        margin-top: 79px;
-        color: #FFFFFF;
-        background: #AEC346;
-        cursor: pointer;
-        margin-bottom: 20px;
-        font-family: Roboto;
-        font-size: 20px;
-        font-weight: 700;
-        line-height: 2.5px;
-        text-align: center;
-    
-    
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+
     }
     
 
