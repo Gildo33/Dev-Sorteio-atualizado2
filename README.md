@@ -6,3 +6,5 @@
 <p>Este projeto que teve o auxilio da instituição <a href=https://rodolfomori.com.br/devclub>DEV-ClUb</a> visa criar uma página web responsiva que se adapta a diferentes tamanhos de tela, como dispositivos móveis, tablets e desktops, utilizando as tecnologias HTML, CSS e JavaScript. A ideia é garantir uma experiência de usuário fluida e otimizada em qualquer dispositivo.</p>
 <br>
 <img src="https://github.com/Gildo33/Dev-Sorteio-atualizado2/blob/master/assets/Dev-sorteio-Atualizado.png?raw=true">
+<br>
+<img src="https://github.com/Gildo33/Dev-Sorteio-atualizado2/blob/master/assets/Dev-Sorteio-Responsivo.png?raw=true">
